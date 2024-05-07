@@ -18,7 +18,7 @@ Python Pandas: Employed for data manipulation and ETL operations.
 BigQuery: Utilized as a data warehouse for storing Data.
 Tableau: Used for data visualization and analysis.
 
-# Steps used in the project
+# Project steps
 1. Transferred data into MySQL Database and stored it in the form of tables.
    ![Screenshot (1112)](https://github.com/Subhashini098/Health_Insurance_Analysis/assets/109629881/c7ec48c1-862c-4c83-9bfb-39ec65d67d51)
 
