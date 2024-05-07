@@ -54,8 +54,8 @@ def categorize_children(children):
     else:
         return '3+'
 
-# Example usage:
-# Assuming df is your DataFrame containing 'age' and 'bmi' columns
+
+# Assuming df is your DataFrame containing 'age''children_group' and 'bmi' columns
 df['age_group'] = df['age'].apply(age_category)
 df['bmi_category'] = df['bmi'].apply(bmi_category)
 df['children_group'] = df['children'].apply(categorize_children)
