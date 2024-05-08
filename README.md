@@ -3,19 +3,28 @@ In this project, I conducted Extract, Transform, and Load (ETL) operations on he
 
 # Dataset details
 This dataset contains information on the relationship between personal attributes (age, gender, BMI, family size, smoking habits), geographic factors, and their impact on medical insurance charges. It can be used to study how these features influence insurance costs and develop predictive models for estimating healthcare expenses.
+
 Age: The insured person's age.
+
 Sex: Gender (male or female) of the insured.
+
 BMI (Body Mass Index): A measure of body fat based on height and weight.
+
 Children: The number of dependents covered.
+
 Smoker: Whether the insured is a smoker (yes or no).
+
 Region: The geographic area of coverage.
 
 Link for dataset-https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
 
 # Tools Utilized
 MySQL Database: Used for storing and managing the dataset.
+
 Python Pandas: Employed for data manipulation and ETL operations.
+
 BigQuery: Utilized as a data warehouse for storing Data.
+
 Tableau: Used for data visualization and analysis.
 
 # Project steps
