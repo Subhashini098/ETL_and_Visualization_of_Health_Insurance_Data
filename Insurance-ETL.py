@@ -8,7 +8,7 @@ target_table = 'insurance_table'
 table_id = f'{proj}.{dataset}.{target_table}'
 
 #data connections
-conn = mysql.connector.connect(read_default_file='C:/Users/19523/Downloads/.my1.cnf')
+conn = mysql.connector.connect(read_default_file='C:/Users/19523/Documents/.my1.cnf')
 client=bigquery.Client(project=proj)
 
 #sql query
