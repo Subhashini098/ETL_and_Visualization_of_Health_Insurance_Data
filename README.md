@@ -41,4 +41,4 @@ Tableau: Used for data visualization and analysis.
 
 
    
-Link for Visualization-https://public.tableau.com/app/profile/subhashini2849/viz/HealthInsuranceDashboard_17148858803120/Dashboard1?publish=yes
+Link for Visualization-https://public.tableau.com/views/HealthInsuranceDashboard_17148858803120/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
