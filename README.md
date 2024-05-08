@@ -37,7 +37,8 @@ Tableau: Used for data visualization and analysis.
   ![Screenshot (1121)](https://github.com/Subhashini098/Health_Insurance_Analysis/assets/109629881/fac27c4b-adb5-4d3f-8984-d4dc1cbb4860)
  
 5. Connected the transformed data present in BigQuery to Tableau for data visualization and analysis.
-   ![Dashboard 1 (1)](https://github.com/Subhashini098/Health_Insurance_Analysis/assets/109629881/af6e3486-d903-4420-a6d3-27d910e2a7fb)
+  ![Dashboard 1 (2)](https://github.com/Subhashini098/ETL_and_Visualization_of_Health_Insurance_Data/assets/109629881/12557107-c446-440a-979c-39ab4c35a5db)
+
 
    
-Link for Visualization-https://public.tableau.com/views/HealthInsuranceDashboard_17148858803120/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
+Link for Visualization-https://public.tableau.com/app/profile/subhashini2849/viz/HealthInsuranceDashboard_17148858803120/Dashboard1?publish=yes
